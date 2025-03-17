@@ -3,6 +3,8 @@ body{
     padding: 20px;            
     width: 790px;             
     margin: 20px; 
+    
+    
 }
 #title{
     text-align: center;
@@ -38,7 +40,7 @@ hr {
 }
 #summary{
     margin-top: 0;
-    font-size: 15px;
+    font-size: 1em;
 }
 #education_heading{
     margin-bottom: 0;
@@ -54,7 +56,7 @@ hr {
     margin-bottom: 0;
 }
 #pr_desc{
-    font-size: 15px;
+    font-size: 1em;
 }
 #git_pr_link{
     margin-top: 0;
