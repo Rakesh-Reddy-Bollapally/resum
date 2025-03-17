@@ -38,7 +38,7 @@ hr {
 }
 #summary{
     margin-top: 0;
-    font-size: 17px;
+    font-size: 15px;
 }
 #education_heading{
     margin-bottom: 0;
@@ -52,6 +52,9 @@ hr {
 #project_title{
     margin-top: 0;
     margin-bottom: 0;
+}
+#pr_desc{
+    font-size: 15px;
 }
 #git_pr_link{
     margin-top: 0;
