@@ -1,0 +1,68 @@
+body{
+    border: 2px solid black;
+    padding: 20px;            
+    width: 790px;             
+    margin: 20px; 
+}
+#title{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#name{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 1;
+    margin-bottom: 0;
+}
+#contact{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#links{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+#summary_heading{
+    margin-bottom: 0;
+}
+hr {
+    border: none;
+    border-top: 2px solid black; /* Line thickness and color */
+    margin-top: 0; /* Remove top margin from <hr> tag */
+    margin-bottom: 0; /* Remove bottom margin from <hr> tag */
+}
+#summary{
+    margin-top: 0;
+    font-size: 17px;
+}
+#education_heading{
+    margin-bottom: 0;
+}
+#skills_heading{
+    margin-bottom: 0;
+}
+#project_heading{
+    margin-bottom: 0;
+}
+#project_title{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#git_pr_link{
+    margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#cer_heading{
+   margin-bottom:0; 
+}
+#f_set{
+    padding: 10px;
+    border: 1px solid #545556;
+    border-radius: 2px;
+    background-color: #f9fafb;
+}
